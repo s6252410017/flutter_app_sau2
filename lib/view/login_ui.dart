@@ -19,7 +19,7 @@ class _LoginUIState extends State<LoginUI> {
             decoration: BoxDecoration(
               image: DecorationImage(
                 image:  AssetImage(
-                  'assets/images/bg.png',
+                  'assets/images/bg.jpg',
                 ),
                 fit: BoxFit.cover,
               ),
